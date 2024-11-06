@@ -40,6 +40,15 @@ blockquote {
   padding: 24px 20px;
 }
 
+.header__logo {
+  display: block;
+  width: 78px;
+}
+
+.header__logo-image {
+  width: 100%;
+}
+
 .cover {
   padding: 7px 24px 10px 20px;
 }
