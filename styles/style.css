@@ -79,6 +79,27 @@ blockquote {
   padding: 7px 24px 10px 20px;
 }
 
+.cover__title {
+  width: 100%;
+  color: #fff;
+  font-family: 'EB Garamond', Georgia, serif;
+  font-weight: 400;
+  font-size: 72px;
+  line-height: 1;
+}
+
+.accent-span {
+  display: block;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-right {
+  text-align: right;
+}
+
 .intro {
   padding: 20px 20px 38px;
 }
